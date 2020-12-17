@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kent1db&label=Profile%20views&color=0e75b6&style=flat" alt="kent1db" /> </p>
 
-- 🔭 I’m currently working on **get_next_line**
+- 🔭 I’m currently working on **ft_server**
 
 - 🌱 I’m currently learning **Best language of the world : C**
 
