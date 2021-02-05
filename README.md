@@ -7,10 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://profile.intra.42.fr](https://profile.intra.42.fr)
 
-- 💬 Ask me about **oui**
-
 - 📫 How to reach me **don't**
-
-- ⚡ Fun fact **I think I'm funny**
 
 <p><img src=https://badge42.herokuapp.com/api/stats/qurobert/><p/>
